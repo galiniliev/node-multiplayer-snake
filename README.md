@@ -4,7 +4,7 @@
 [![Dependency Status](https://david-dm.org/simondiep/node-multiplayer-snake/status.svg?style=flat)](https://david-dm.org/simondiep/node-multiplayer-snake)  
 
 A multiplayer snake game built on NodeJs, Express, socket.io, and JavaScript ES6.  No unnecessary libraries.
-
+ 
 Live demo [Here](https://node-multiplayer-snake.herokuapp.com/)
 
 ### Getting Started
